@@ -1,4 +1,3 @@
-# Student-Dasboard
 # Student-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/aabdc973-2bda-4479-ae81-77549632adc1/f2ad104de8d8e02dbe49?bookmarkGuid=918201c8-b0d9-4cdc-b8a2-f05780069caf&bookmarkUsage=1&ctid=c161ec3a-f23b-463b-823e-79329dc7b3f9&portalSessionId=772e5dd1-fdca-4d84-988f-96c2011ee17c&fromEntryPoint=export
@@ -44,8 +43,6 @@ Snap of Total students
 
 Snap of Checkbox from where we select multiple Subjects
 ![Screenshot 2024-12-15 024450](https://github.com/user-attachments/assets/b910845e-8990-4ba3-a2f9-4cd93301e04c)
-
-
 
 Snap of perecntage of CGPA by branch
 ![Screenshot 2024-12-15 023741](https://github.com/user-attachments/assets/87f52a0d-2efc-496b-9c7f-66e08c836ef5)
