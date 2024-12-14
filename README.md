@@ -42,7 +42,7 @@ Snap of Total students
 ![Screenshot 2024-12-15 024428](https://github.com/user-attachments/assets/3234a60b-6ea3-4d96-bd83-878c7e9a346d)
 
 Snap of Checkbox from where we select multiple Subjects
-![Screenshot 2024-12-15 024450](https://github.com/user-attachments/assets/b910845e-8990-4ba3-a2f9-4cd93301e04c)
+![Screenshot 2024-12-15 024450](https://github.com/user-attachments/assets/c68dc7f3-0a75-4e33-a499-1963bee202e0)
 
 Snap of perecntage of CGPA by branch
 ![Screenshot 2024-12-15 023741](https://github.com/user-attachments/assets/87f52a0d-2efc-496b-9c7f-66e08c836ef5)
